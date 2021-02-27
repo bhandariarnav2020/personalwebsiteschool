@@ -1,0 +1,30 @@
+ body{
+     background-color:greenyellow;
+     text-align:center;
+}  
+h1{
+  font-family:cursive;
+  color:orange;
+}
+img{
+  height:250px;
+  width:500px;
+  border-radius:250px;
+}
+#contact{
+  text-align: center;
+}
+p{
+  font-size:30px;
+  font-weight: 600;
+  color:dodgerblue;
+}
+a{
+  text-align: center;
+}
+#principal{
+  height:250px;
+  width:250px;
+  border-radius:250px;
+  margin-top:30px;
+}
